@@ -3,4 +3,4 @@
 """
 Anneda Rong (aar2dk)
 """
-import .LovFuncs
+from LovFuncs.booklover import BookLover
